@@ -94,6 +94,7 @@
     <Content Include="Global.asax" />
     <Content Include="img\check.png" />
     <Content Include="img\x.png" />
+    <Content Include="Scripts\bootstrap-datepicker.en-GB.min.js" />
     <Content Include="Scripts\bootstrap-datepicker.min.js" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
@@ -139,6 +140,7 @@
     <Content Include="Views\Entries\Edit.cshtml" />
     <Content Include="Views\Entries\Delete.cshtml" />
     <Content Include="Views\Shared\_Logo.cshtml" />
+    <Content Include="Views\Entries\_EntryForm.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
